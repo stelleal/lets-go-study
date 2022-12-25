@@ -28,7 +28,7 @@ func main() {
 	// aspas simples converte o caractere para ASCII, vira rune
 	char := 'A'
 
-	// BOOLEAN (default = nil)
+	// BOOLEAN (default = false)
 	var boolean bool = true
 
 	// ERROR (default = nil)
